@@ -8,6 +8,4 @@ Analysis of the various sentiments occurring in the tweets. Quite interesting to
 
 Wordcloud representations of the most commonly occurring words on Twitter about climate and COVID-19 when parsed for 60 seconds. 
 
-![](wordcloud2_plt.gif)
-
 ![](wordcloud2_plt2.gif)
