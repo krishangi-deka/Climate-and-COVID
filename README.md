@@ -1,4 +1,4 @@
-# ClimateAnalysis_TwitterData
+# Climate and COVID Sentiment Analysis
 Sentiment analysis for data collected from Twitter about climate and COVID-19.
 
 #### Language Used: R
